@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BeerPriceTest::test_get_beer_price":3,"UnitTest::test_get_beer_price":3,"UnitTest::test_get_ATM_fee":4,"UnitTest::test_clothes_discount_percent":3},"times":{"BeerPriceTest::test_get_beer_price":0.001,"UnitTest::test_get_beer_price":0.001,"UnitTest::test_get_ATM_fee":0,"UnitTest::test_clothes_discount_percent":0}}
